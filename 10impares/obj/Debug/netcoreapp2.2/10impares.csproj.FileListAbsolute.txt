@@ -1,0 +1,11 @@
+C:\Users\49446034876\Desktop\teste\10impares\bin\Debug\netcoreapp2.2\10impares.deps.json
+C:\Users\49446034876\Desktop\teste\10impares\bin\Debug\netcoreapp2.2\10impares.runtimeconfig.json
+C:\Users\49446034876\Desktop\teste\10impares\bin\Debug\netcoreapp2.2\10impares.runtimeconfig.dev.json
+C:\Users\49446034876\Desktop\teste\10impares\bin\Debug\netcoreapp2.2\10impares.dll
+C:\Users\49446034876\Desktop\teste\10impares\bin\Debug\netcoreapp2.2\10impares.pdb
+C:\Users\49446034876\Desktop\teste\10impares\obj\Debug\netcoreapp2.2\10impares.csprojAssemblyReference.cache
+C:\Users\49446034876\Desktop\teste\10impares\obj\Debug\netcoreapp2.2\10impares.csproj.CoreCompileInputs.cache
+C:\Users\49446034876\Desktop\teste\10impares\obj\Debug\netcoreapp2.2\10impares.AssemblyInfoInputs.cache
+C:\Users\49446034876\Desktop\teste\10impares\obj\Debug\netcoreapp2.2\10impares.AssemblyInfo.cs
+C:\Users\49446034876\Desktop\teste\10impares\obj\Debug\netcoreapp2.2\10impares.dll
+C:\Users\49446034876\Desktop\teste\10impares\obj\Debug\netcoreapp2.2\10impares.pdb

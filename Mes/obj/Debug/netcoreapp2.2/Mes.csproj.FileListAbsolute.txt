@@ -1,0 +1,11 @@
+C:\Users\49446034876\Desktop\teste\Mes\obj\Debug\netcoreapp2.2\Mes.csprojAssemblyReference.cache
+C:\Users\49446034876\Desktop\teste\Mes\obj\Debug\netcoreapp2.2\Mes.csproj.CoreCompileInputs.cache
+C:\Users\49446034876\Desktop\teste\Mes\obj\Debug\netcoreapp2.2\Mes.AssemblyInfoInputs.cache
+C:\Users\49446034876\Desktop\teste\Mes\obj\Debug\netcoreapp2.2\Mes.AssemblyInfo.cs
+C:\Users\49446034876\Desktop\teste\Mes\bin\Debug\netcoreapp2.2\Mes.deps.json
+C:\Users\49446034876\Desktop\teste\Mes\bin\Debug\netcoreapp2.2\Mes.runtimeconfig.json
+C:\Users\49446034876\Desktop\teste\Mes\bin\Debug\netcoreapp2.2\Mes.runtimeconfig.dev.json
+C:\Users\49446034876\Desktop\teste\Mes\bin\Debug\netcoreapp2.2\Mes.dll
+C:\Users\49446034876\Desktop\teste\Mes\bin\Debug\netcoreapp2.2\Mes.pdb
+C:\Users\49446034876\Desktop\teste\Mes\obj\Debug\netcoreapp2.2\Mes.dll
+C:\Users\49446034876\Desktop\teste\Mes\obj\Debug\netcoreapp2.2\Mes.pdb

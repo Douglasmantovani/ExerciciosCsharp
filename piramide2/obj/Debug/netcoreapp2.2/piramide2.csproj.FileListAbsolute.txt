@@ -1,0 +1,11 @@
+C:\Users\49446034876\Desktop\teste\piramide2\bin\Debug\netcoreapp2.2\piramide2.deps.json
+C:\Users\49446034876\Desktop\teste\piramide2\bin\Debug\netcoreapp2.2\piramide2.runtimeconfig.json
+C:\Users\49446034876\Desktop\teste\piramide2\bin\Debug\netcoreapp2.2\piramide2.runtimeconfig.dev.json
+C:\Users\49446034876\Desktop\teste\piramide2\bin\Debug\netcoreapp2.2\piramide2.dll
+C:\Users\49446034876\Desktop\teste\piramide2\bin\Debug\netcoreapp2.2\piramide2.pdb
+C:\Users\49446034876\Desktop\teste\piramide2\obj\Debug\netcoreapp2.2\piramide2.csprojAssemblyReference.cache
+C:\Users\49446034876\Desktop\teste\piramide2\obj\Debug\netcoreapp2.2\piramide2.csproj.CoreCompileInputs.cache
+C:\Users\49446034876\Desktop\teste\piramide2\obj\Debug\netcoreapp2.2\piramide2.AssemblyInfoInputs.cache
+C:\Users\49446034876\Desktop\teste\piramide2\obj\Debug\netcoreapp2.2\piramide2.AssemblyInfo.cs
+C:\Users\49446034876\Desktop\teste\piramide2\obj\Debug\netcoreapp2.2\piramide2.dll
+C:\Users\49446034876\Desktop\teste\piramide2\obj\Debug\netcoreapp2.2\piramide2.pdb

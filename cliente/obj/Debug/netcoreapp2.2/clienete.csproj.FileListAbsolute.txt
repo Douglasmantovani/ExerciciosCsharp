@@ -1,0 +1,11 @@
+C:\Users\49446034876\Documents\exercicios\cliente\obj\Debug\netcoreapp2.2\clienete.csprojAssemblyReference.cache
+C:\Users\49446034876\Documents\exercicios\cliente\obj\Debug\netcoreapp2.2\clienete.csproj.CoreCompileInputs.cache
+C:\Users\49446034876\Documents\exercicios\cliente\obj\Debug\netcoreapp2.2\clienete.AssemblyInfoInputs.cache
+C:\Users\49446034876\Documents\exercicios\cliente\obj\Debug\netcoreapp2.2\clienete.AssemblyInfo.cs
+C:\Users\49446034876\Documents\exercicios\cliente\bin\Debug\netcoreapp2.2\clienete.deps.json
+C:\Users\49446034876\Documents\exercicios\cliente\bin\Debug\netcoreapp2.2\clienete.runtimeconfig.json
+C:\Users\49446034876\Documents\exercicios\cliente\bin\Debug\netcoreapp2.2\clienete.runtimeconfig.dev.json
+C:\Users\49446034876\Documents\exercicios\cliente\bin\Debug\netcoreapp2.2\clienete.dll
+C:\Users\49446034876\Documents\exercicios\cliente\bin\Debug\netcoreapp2.2\clienete.pdb
+C:\Users\49446034876\Documents\exercicios\cliente\obj\Debug\netcoreapp2.2\clienete.dll
+C:\Users\49446034876\Documents\exercicios\cliente\obj\Debug\netcoreapp2.2\clienete.pdb

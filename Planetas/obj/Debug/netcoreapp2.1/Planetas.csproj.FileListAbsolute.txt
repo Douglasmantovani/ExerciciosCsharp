@@ -1,0 +1,10 @@
+C:\Users\49446034876\Desktop\SQL\SQL\exercicios\Planetas\bin\Debug\netcoreapp2.1\Planetas.deps.json
+C:\Users\49446034876\Desktop\SQL\SQL\exercicios\Planetas\bin\Debug\netcoreapp2.1\Planetas.runtimeconfig.json
+C:\Users\49446034876\Desktop\SQL\SQL\exercicios\Planetas\bin\Debug\netcoreapp2.1\Planetas.runtimeconfig.dev.json
+C:\Users\49446034876\Desktop\SQL\SQL\exercicios\Planetas\bin\Debug\netcoreapp2.1\Planetas.dll
+C:\Users\49446034876\Desktop\SQL\SQL\exercicios\Planetas\bin\Debug\netcoreapp2.1\Planetas.pdb
+C:\Users\49446034876\Desktop\SQL\SQL\exercicios\Planetas\obj\Debug\netcoreapp2.1\Planetas.csprojAssemblyReference.cache
+C:\Users\49446034876\Desktop\SQL\SQL\exercicios\Planetas\obj\Debug\netcoreapp2.1\Planetas.AssemblyInfoInputs.cache
+C:\Users\49446034876\Desktop\SQL\SQL\exercicios\Planetas\obj\Debug\netcoreapp2.1\Planetas.AssemblyInfo.cs
+C:\Users\49446034876\Desktop\SQL\SQL\exercicios\Planetas\obj\Debug\netcoreapp2.1\Planetas.dll
+C:\Users\49446034876\Desktop\SQL\SQL\exercicios\Planetas\obj\Debug\netcoreapp2.1\Planetas.pdb

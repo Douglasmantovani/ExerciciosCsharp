@@ -1,0 +1,11 @@
+C:\Users\49446034876\Documents\exercicios\whileparimpar\bin\Debug\netcoreapp2.2\whileparimpar.deps.json
+C:\Users\49446034876\Documents\exercicios\whileparimpar\bin\Debug\netcoreapp2.2\whileparimpar.runtimeconfig.json
+C:\Users\49446034876\Documents\exercicios\whileparimpar\bin\Debug\netcoreapp2.2\whileparimpar.runtimeconfig.dev.json
+C:\Users\49446034876\Documents\exercicios\whileparimpar\bin\Debug\netcoreapp2.2\whileparimpar.dll
+C:\Users\49446034876\Documents\exercicios\whileparimpar\bin\Debug\netcoreapp2.2\whileparimpar.pdb
+C:\Users\49446034876\Documents\exercicios\whileparimpar\obj\Debug\netcoreapp2.2\whileparimpar.csprojAssemblyReference.cache
+C:\Users\49446034876\Documents\exercicios\whileparimpar\obj\Debug\netcoreapp2.2\whileparimpar.csproj.CoreCompileInputs.cache
+C:\Users\49446034876\Documents\exercicios\whileparimpar\obj\Debug\netcoreapp2.2\whileparimpar.AssemblyInfoInputs.cache
+C:\Users\49446034876\Documents\exercicios\whileparimpar\obj\Debug\netcoreapp2.2\whileparimpar.AssemblyInfo.cs
+C:\Users\49446034876\Documents\exercicios\whileparimpar\obj\Debug\netcoreapp2.2\whileparimpar.dll
+C:\Users\49446034876\Documents\exercicios\whileparimpar\obj\Debug\netcoreapp2.2\whileparimpar.pdb

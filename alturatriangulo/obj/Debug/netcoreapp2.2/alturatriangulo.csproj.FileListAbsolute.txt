@@ -1,0 +1,11 @@
+C:\Users\49446034876\Desktop\teste\alturatriangulo\bin\Debug\netcoreapp2.2\alturatriangulo.deps.json
+C:\Users\49446034876\Desktop\teste\alturatriangulo\bin\Debug\netcoreapp2.2\alturatriangulo.runtimeconfig.json
+C:\Users\49446034876\Desktop\teste\alturatriangulo\bin\Debug\netcoreapp2.2\alturatriangulo.runtimeconfig.dev.json
+C:\Users\49446034876\Desktop\teste\alturatriangulo\bin\Debug\netcoreapp2.2\alturatriangulo.dll
+C:\Users\49446034876\Desktop\teste\alturatriangulo\bin\Debug\netcoreapp2.2\alturatriangulo.pdb
+C:\Users\49446034876\Desktop\teste\alturatriangulo\obj\Debug\netcoreapp2.2\alturatriangulo.csprojAssemblyReference.cache
+C:\Users\49446034876\Desktop\teste\alturatriangulo\obj\Debug\netcoreapp2.2\alturatriangulo.csproj.CoreCompileInputs.cache
+C:\Users\49446034876\Desktop\teste\alturatriangulo\obj\Debug\netcoreapp2.2\alturatriangulo.AssemblyInfoInputs.cache
+C:\Users\49446034876\Desktop\teste\alturatriangulo\obj\Debug\netcoreapp2.2\alturatriangulo.AssemblyInfo.cs
+C:\Users\49446034876\Desktop\teste\alturatriangulo\obj\Debug\netcoreapp2.2\alturatriangulo.dll
+C:\Users\49446034876\Desktop\teste\alturatriangulo\obj\Debug\netcoreapp2.2\alturatriangulo.pdb

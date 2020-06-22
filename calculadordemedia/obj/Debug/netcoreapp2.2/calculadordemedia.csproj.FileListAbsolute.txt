@@ -1,0 +1,11 @@
+C:\Users\49446034876\Documents\exercicios\calculadordemedia\bin\Debug\netcoreapp2.2\calculadordemedia.deps.json
+C:\Users\49446034876\Documents\exercicios\calculadordemedia\bin\Debug\netcoreapp2.2\calculadordemedia.runtimeconfig.json
+C:\Users\49446034876\Documents\exercicios\calculadordemedia\bin\Debug\netcoreapp2.2\calculadordemedia.runtimeconfig.dev.json
+C:\Users\49446034876\Documents\exercicios\calculadordemedia\bin\Debug\netcoreapp2.2\calculadordemedia.dll
+C:\Users\49446034876\Documents\exercicios\calculadordemedia\bin\Debug\netcoreapp2.2\calculadordemedia.pdb
+C:\Users\49446034876\Documents\exercicios\calculadordemedia\obj\Debug\netcoreapp2.2\calculadordemedia.csprojAssemblyReference.cache
+C:\Users\49446034876\Documents\exercicios\calculadordemedia\obj\Debug\netcoreapp2.2\calculadordemedia.csproj.CoreCompileInputs.cache
+C:\Users\49446034876\Documents\exercicios\calculadordemedia\obj\Debug\netcoreapp2.2\calculadordemedia.AssemblyInfoInputs.cache
+C:\Users\49446034876\Documents\exercicios\calculadordemedia\obj\Debug\netcoreapp2.2\calculadordemedia.AssemblyInfo.cs
+C:\Users\49446034876\Documents\exercicios\calculadordemedia\obj\Debug\netcoreapp2.2\calculadordemedia.dll
+C:\Users\49446034876\Documents\exercicios\calculadordemedia\obj\Debug\netcoreapp2.2\calculadordemedia.pdb

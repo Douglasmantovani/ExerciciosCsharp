@@ -1,0 +1,11 @@
+C:\Users\49446034876\Desktop\teste\viagem\obj\Debug\netcoreapp2.2\viagem.csprojAssemblyReference.cache
+C:\Users\49446034876\Desktop\teste\viagem\obj\Debug\netcoreapp2.2\viagem.csproj.CoreCompileInputs.cache
+C:\Users\49446034876\Desktop\teste\viagem\obj\Debug\netcoreapp2.2\viagem.AssemblyInfoInputs.cache
+C:\Users\49446034876\Desktop\teste\viagem\obj\Debug\netcoreapp2.2\viagem.AssemblyInfo.cs
+C:\Users\49446034876\Desktop\teste\viagem\bin\Debug\netcoreapp2.2\viagem.deps.json
+C:\Users\49446034876\Desktop\teste\viagem\bin\Debug\netcoreapp2.2\viagem.runtimeconfig.json
+C:\Users\49446034876\Desktop\teste\viagem\bin\Debug\netcoreapp2.2\viagem.runtimeconfig.dev.json
+C:\Users\49446034876\Desktop\teste\viagem\bin\Debug\netcoreapp2.2\viagem.dll
+C:\Users\49446034876\Desktop\teste\viagem\bin\Debug\netcoreapp2.2\viagem.pdb
+C:\Users\49446034876\Desktop\teste\viagem\obj\Debug\netcoreapp2.2\viagem.dll
+C:\Users\49446034876\Desktop\teste\viagem\obj\Debug\netcoreapp2.2\viagem.pdb

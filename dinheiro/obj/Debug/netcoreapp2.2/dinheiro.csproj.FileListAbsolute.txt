@@ -1,0 +1,11 @@
+C:\Users\49446034876\Documents\exercicios\dinheiro\obj\Debug\netcoreapp2.2\dinheiro.csprojAssemblyReference.cache
+C:\Users\49446034876\Documents\exercicios\dinheiro\obj\Debug\netcoreapp2.2\dinheiro.csproj.CoreCompileInputs.cache
+C:\Users\49446034876\Documents\exercicios\dinheiro\obj\Debug\netcoreapp2.2\dinheiro.AssemblyInfoInputs.cache
+C:\Users\49446034876\Documents\exercicios\dinheiro\obj\Debug\netcoreapp2.2\dinheiro.AssemblyInfo.cs
+C:\Users\49446034876\Documents\exercicios\dinheiro\bin\Debug\netcoreapp2.2\dinheiro.deps.json
+C:\Users\49446034876\Documents\exercicios\dinheiro\bin\Debug\netcoreapp2.2\dinheiro.runtimeconfig.json
+C:\Users\49446034876\Documents\exercicios\dinheiro\bin\Debug\netcoreapp2.2\dinheiro.runtimeconfig.dev.json
+C:\Users\49446034876\Documents\exercicios\dinheiro\bin\Debug\netcoreapp2.2\dinheiro.dll
+C:\Users\49446034876\Documents\exercicios\dinheiro\bin\Debug\netcoreapp2.2\dinheiro.pdb
+C:\Users\49446034876\Documents\exercicios\dinheiro\obj\Debug\netcoreapp2.2\dinheiro.dll
+C:\Users\49446034876\Documents\exercicios\dinheiro\obj\Debug\netcoreapp2.2\dinheiro.pdb
