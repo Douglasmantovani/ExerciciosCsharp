@@ -1,0 +1,11 @@
+C:\Users\40349113874\Documents\csharpe\ByteBank\bin\Debug\netcoreapp2.2\ByteBank.deps.json
+C:\Users\40349113874\Documents\csharpe\ByteBank\bin\Debug\netcoreapp2.2\ByteBank.runtimeconfig.json
+C:\Users\40349113874\Documents\csharpe\ByteBank\bin\Debug\netcoreapp2.2\ByteBank.runtimeconfig.dev.json
+C:\Users\40349113874\Documents\csharpe\ByteBank\bin\Debug\netcoreapp2.2\ByteBank.dll
+C:\Users\40349113874\Documents\csharpe\ByteBank\bin\Debug\netcoreapp2.2\ByteBank.pdb
+C:\Users\40349113874\Documents\csharpe\ByteBank\obj\Debug\netcoreapp2.2\ByteBank.csprojAssemblyReference.cache
+C:\Users\40349113874\Documents\csharpe\ByteBank\obj\Debug\netcoreapp2.2\ByteBank.csproj.CoreCompileInputs.cache
+C:\Users\40349113874\Documents\csharpe\ByteBank\obj\Debug\netcoreapp2.2\ByteBank.AssemblyInfoInputs.cache
+C:\Users\40349113874\Documents\csharpe\ByteBank\obj\Debug\netcoreapp2.2\ByteBank.AssemblyInfo.cs
+C:\Users\40349113874\Documents\csharpe\ByteBank\obj\Debug\netcoreapp2.2\ByteBank.dll
+C:\Users\40349113874\Documents\csharpe\ByteBank\obj\Debug\netcoreapp2.2\ByteBank.pdb
