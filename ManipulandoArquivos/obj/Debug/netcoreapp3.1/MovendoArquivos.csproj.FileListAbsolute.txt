@@ -1,0 +1,13 @@
+C:\Users\senai\Desktop\MovendoArquivos\bin\Debug\netcoreapp3.1\MovendoArquivos.exe
+C:\Users\senai\Desktop\MovendoArquivos\bin\Debug\netcoreapp3.1\MovendoArquivos.deps.json
+C:\Users\senai\Desktop\MovendoArquivos\bin\Debug\netcoreapp3.1\MovendoArquivos.runtimeconfig.json
+C:\Users\senai\Desktop\MovendoArquivos\bin\Debug\netcoreapp3.1\MovendoArquivos.runtimeconfig.dev.json
+C:\Users\senai\Desktop\MovendoArquivos\bin\Debug\netcoreapp3.1\MovendoArquivos.dll
+C:\Users\senai\Desktop\MovendoArquivos\bin\Debug\netcoreapp3.1\MovendoArquivos.pdb
+C:\Users\senai\Desktop\MovendoArquivos\obj\Debug\netcoreapp3.1\MovendoArquivos.csprojAssemblyReference.cache
+C:\Users\senai\Desktop\MovendoArquivos\obj\Debug\netcoreapp3.1\MovendoArquivos.AssemblyInfoInputs.cache
+C:\Users\senai\Desktop\MovendoArquivos\obj\Debug\netcoreapp3.1\MovendoArquivos.AssemblyInfo.cs
+C:\Users\senai\Desktop\MovendoArquivos\obj\Debug\netcoreapp3.1\MovendoArquivos.csproj.CoreCompileInputs.cache
+C:\Users\senai\Desktop\MovendoArquivos\obj\Debug\netcoreapp3.1\MovendoArquivos.dll
+C:\Users\senai\Desktop\MovendoArquivos\obj\Debug\netcoreapp3.1\MovendoArquivos.pdb
+C:\Users\senai\Desktop\MovendoArquivos\obj\Debug\netcoreapp3.1\MovendoArquivos.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\senai\Desktop\opa\bin\Debug\netcoreapp3.1\opa.exe
+C:\Users\senai\Desktop\opa\bin\Debug\netcoreapp3.1\opa.deps.json
+C:\Users\senai\Desktop\opa\bin\Debug\netcoreapp3.1\opa.runtimeconfig.json
+C:\Users\senai\Desktop\opa\bin\Debug\netcoreapp3.1\opa.runtimeconfig.dev.json
+C:\Users\senai\Desktop\opa\bin\Debug\netcoreapp3.1\opa.dll
+C:\Users\senai\Desktop\opa\bin\Debug\netcoreapp3.1\opa.pdb
+C:\Users\senai\Desktop\opa\obj\Debug\netcoreapp3.1\opa.csprojAssemblyReference.cache
+C:\Users\senai\Desktop\opa\obj\Debug\netcoreapp3.1\opa.AssemblyInfoInputs.cache
+C:\Users\senai\Desktop\opa\obj\Debug\netcoreapp3.1\opa.AssemblyInfo.cs
+C:\Users\senai\Desktop\opa\obj\Debug\netcoreapp3.1\opa.csproj.CoreCompileInputs.cache
+C:\Users\senai\Desktop\opa\obj\Debug\netcoreapp3.1\opa.dll
+C:\Users\senai\Desktop\opa\obj\Debug\netcoreapp3.1\opa.pdb
+C:\Users\senai\Desktop\opa\obj\Debug\netcoreapp3.1\opa.genruntimeconfig.cache
