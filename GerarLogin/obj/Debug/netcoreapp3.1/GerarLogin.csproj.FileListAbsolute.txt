@@ -1,0 +1,13 @@
+C:\Users\senai\Desktop\GerarLogin\bin\Debug\netcoreapp3.1\GerarLogin.exe
+C:\Users\senai\Desktop\GerarLogin\bin\Debug\netcoreapp3.1\GerarLogin.deps.json
+C:\Users\senai\Desktop\GerarLogin\bin\Debug\netcoreapp3.1\GerarLogin.runtimeconfig.json
+C:\Users\senai\Desktop\GerarLogin\bin\Debug\netcoreapp3.1\GerarLogin.runtimeconfig.dev.json
+C:\Users\senai\Desktop\GerarLogin\bin\Debug\netcoreapp3.1\GerarLogin.dll
+C:\Users\senai\Desktop\GerarLogin\bin\Debug\netcoreapp3.1\GerarLogin.pdb
+C:\Users\senai\Desktop\GerarLogin\obj\Debug\netcoreapp3.1\GerarLogin.csprojAssemblyReference.cache
+C:\Users\senai\Desktop\GerarLogin\obj\Debug\netcoreapp3.1\GerarLogin.AssemblyInfoInputs.cache
+C:\Users\senai\Desktop\GerarLogin\obj\Debug\netcoreapp3.1\GerarLogin.AssemblyInfo.cs
+C:\Users\senai\Desktop\GerarLogin\obj\Debug\netcoreapp3.1\GerarLogin.csproj.CoreCompileInputs.cache
+C:\Users\senai\Desktop\GerarLogin\obj\Debug\netcoreapp3.1\GerarLogin.dll
+C:\Users\senai\Desktop\GerarLogin\obj\Debug\netcoreapp3.1\GerarLogin.pdb
+C:\Users\senai\Desktop\GerarLogin\obj\Debug\netcoreapp3.1\GerarLogin.genruntimeconfig.cache

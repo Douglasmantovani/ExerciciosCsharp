@@ -1,0 +1,13 @@
+C:\Users\senai\Desktop\Quiz_Animal\bin\Debug\netcoreapp3.1\Quiz_Animal.exe
+C:\Users\senai\Desktop\Quiz_Animal\bin\Debug\netcoreapp3.1\Quiz_Animal.deps.json
+C:\Users\senai\Desktop\Quiz_Animal\bin\Debug\netcoreapp3.1\Quiz_Animal.runtimeconfig.json
+C:\Users\senai\Desktop\Quiz_Animal\bin\Debug\netcoreapp3.1\Quiz_Animal.runtimeconfig.dev.json
+C:\Users\senai\Desktop\Quiz_Animal\bin\Debug\netcoreapp3.1\Quiz_Animal.dll
+C:\Users\senai\Desktop\Quiz_Animal\bin\Debug\netcoreapp3.1\Quiz_Animal.pdb
+C:\Users\senai\Desktop\Quiz_Animal\obj\Debug\netcoreapp3.1\Quiz_Animal.csprojAssemblyReference.cache
+C:\Users\senai\Desktop\Quiz_Animal\obj\Debug\netcoreapp3.1\Quiz_Animal.AssemblyInfoInputs.cache
+C:\Users\senai\Desktop\Quiz_Animal\obj\Debug\netcoreapp3.1\Quiz_Animal.AssemblyInfo.cs
+C:\Users\senai\Desktop\Quiz_Animal\obj\Debug\netcoreapp3.1\Quiz_Animal.csproj.CoreCompileInputs.cache
+C:\Users\senai\Desktop\Quiz_Animal\obj\Debug\netcoreapp3.1\Quiz_Animal.dll
+C:\Users\senai\Desktop\Quiz_Animal\obj\Debug\netcoreapp3.1\Quiz_Animal.pdb
+C:\Users\senai\Desktop\Quiz_Animal\obj\Debug\netcoreapp3.1\Quiz_Animal.genruntimeconfig.cache

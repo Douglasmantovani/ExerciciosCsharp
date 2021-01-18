@@ -1,0 +1,13 @@
+C:\Users\senai\Desktop\Diferença_Entre_strings\bin\Debug\netcoreapp3.1\Diferença_Entre_strings.exe
+C:\Users\senai\Desktop\Diferença_Entre_strings\bin\Debug\netcoreapp3.1\Diferença_Entre_strings.deps.json
+C:\Users\senai\Desktop\Diferença_Entre_strings\bin\Debug\netcoreapp3.1\Diferença_Entre_strings.runtimeconfig.json
+C:\Users\senai\Desktop\Diferença_Entre_strings\bin\Debug\netcoreapp3.1\Diferença_Entre_strings.runtimeconfig.dev.json
+C:\Users\senai\Desktop\Diferença_Entre_strings\bin\Debug\netcoreapp3.1\Diferença_Entre_strings.dll
+C:\Users\senai\Desktop\Diferença_Entre_strings\bin\Debug\netcoreapp3.1\Diferença_Entre_strings.pdb
+C:\Users\senai\Desktop\Diferença_Entre_strings\obj\Debug\netcoreapp3.1\Diferença_Entre_strings.csprojAssemblyReference.cache
+C:\Users\senai\Desktop\Diferença_Entre_strings\obj\Debug\netcoreapp3.1\Diferença_Entre_strings.AssemblyInfoInputs.cache
+C:\Users\senai\Desktop\Diferença_Entre_strings\obj\Debug\netcoreapp3.1\Diferença_Entre_strings.AssemblyInfo.cs
+C:\Users\senai\Desktop\Diferença_Entre_strings\obj\Debug\netcoreapp3.1\Diferença_Entre_strings.csproj.CoreCompileInputs.cache
+C:\Users\senai\Desktop\Diferença_Entre_strings\obj\Debug\netcoreapp3.1\Diferença_Entre_strings.dll
+C:\Users\senai\Desktop\Diferença_Entre_strings\obj\Debug\netcoreapp3.1\Diferença_Entre_strings.pdb
+C:\Users\senai\Desktop\Diferença_Entre_strings\obj\Debug\netcoreapp3.1\Diferença_Entre_strings.genruntimeconfig.cache
